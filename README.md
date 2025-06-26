@@ -83,9 +83,5 @@ pnpm run lint: Lints the project files using ESLint.
 
 pnpm run preview: Serves the production build locally to preview it.
 
-## Screenshots of the application
-
-
-
-
-
+## The live site's link
+https://plp-mern-react.netlify.app/
